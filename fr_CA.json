@@ -1,5 +1,6 @@
 {
   "global": {
+    "brands" : ["ON","BR","GAP"],
     "autoFire" : true,
     "textElements": {
       "popupTextLink"       : "voir les détails",
