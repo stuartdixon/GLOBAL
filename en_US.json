@@ -3,13 +3,19 @@
     "launchDate": "",
     "autoFire" : true,
     "textElements": {
-     "tapButtonText"        : "tap to apply",
-     "tapButtonTextApplied" : "applied at bag",
-     "tapOverlay"           : "Code will be applied at bag",
-     "rewardsText"          : "My Total Rewards",
-     "rewardsCTA"           : "View Now",
-     "headerText"           : "",
-     "subHeaderText"        : ""
+      "popupTextLink"       : "DETAILS",
+      "clicked"             : "clicked",
+      "redeemMessage"       : "Use code <generic> at checkout",
+      "rewardsText"         : "My Total Rewards",
+      "rewardsCTA"          : "View Now",
+      "tapButtonText"       : "tap to apply",
+      "tapButtonTextApplied": "applied at checkout",
+      "tapOverlay"          : "Code will be applied at bag",
+      "headerText"          : "",
+      "subHeaderText"       : "",
+      "openHeaderOffers"    : "my offers",
+      "openHeaderAvailable" : "available"
+      
     },
     "promos": [{
       "bannerContent": {
@@ -36,11 +42,9 @@
         "displayType"       : "generic",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
-        "redeemMessage"     : "Use code <generic> at checkout",
         "useLegalOverride"  : false,
         "genericCodeId"     : "",
-        "genericCode"       : "",
-        "popupTextLink"     : "DETAILS"
+        "genericCode"       : ""
       }
     }]
   }
