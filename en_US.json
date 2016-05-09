@@ -1,6 +1,5 @@
 {
   "global": {
-    "launchDate": "",
     "autoFire" : true,
     "textElements": {
       "popupTextLink"       : "DETAILS",
