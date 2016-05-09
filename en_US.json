@@ -1,0 +1,53 @@
+{
+  global: {
+    launchDate: "",
+    autoFire : true,
+    textElements: {
+     tapButtonText        : "tap to apply",
+     tapButtonTextApplied : "applied at bag",
+     tapOverlay           : "Code will be applied at bag",
+     rewardsText          : "My Total Rewards",
+     rewardsCTA           : "View Now",
+     headerText           : "",
+     subHeaderText        : ""
+    },
+    promos: [{
+      bannerContent: {
+        imgOrHTML: "img",
+        img: {
+          contentParameters: {
+            linkType : false,
+            imageMap: ""
+          },
+          images: {
+            path: "",
+            dataUri: ""
+          }
+        },
+        HTML: {
+          useLocal: true,
+          localHTML: '<h1 style="text-align: center;">Headline</h1>\
+<h2 style="text-align: center;">Subheader</h2>\
+<p style="text-align: center;">Some optional info</p>\
+<p style="text-align: center;">\
+<a href="/category.html" tid="PD_1" target="">Link 1</a>&nbsp;\
+<a href="/cat.html" tid="PD_2">Link 2</a>\
+</p>',
+          backgroundColor: "#FFFFFF",
+          css: "",
+          path: ""
+        }
+      },
+      tapContent: {
+        displayType       : "generic",
+        legalOverride     : "",
+        legalOverrideUrl  : "",
+        redeemMessage     : "Use code <generic> at checkout",
+        useLegalOverride  : false,
+        genericCodeId     : "",
+        genericCode       : "",
+        popupTextLink     : "DETAILS"
+      }
+    }]
+  }
+}
