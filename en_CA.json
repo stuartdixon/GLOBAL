@@ -3,9 +3,7 @@
     "brands" : ["ON","BR","GAP"],
     "autoFire" : true,
     "textElements": {
-      "popupTextLink"       : "DETAILS",
       "clicked"             : "clicked",
-      "redeemMessage"       : "Use code <generic> at checkout",
       "rewardsText"         : "My Total Rewards",
       "rewardsCTA"          : "View Now",
       "tapButtonText"       : "tap to apply",
@@ -40,6 +38,8 @@
       },
       "tapContent": {
         "displayType"       : "generic",
+        "popupTextLink"     : "DETAILS",
+        "redeemMessage"     : "Use code <generic> at checkout",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
         "useLegalOverride"  : false,
