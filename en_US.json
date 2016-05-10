@@ -4,7 +4,6 @@
     "autoFire" : true,
     "textElements": {
       "clicked"             : "clicked",
-      "redeemMessage"       : "Use code <generic> at checkout",
       "rewardsText"         : "My Total Rewards",
       "rewardsCTA"          : "View Now",
       "tapButtonText"       : "tap to apply",
@@ -39,6 +38,7 @@
       },
       "tapContent": {
         "displayType"       : "generic",
+        "redeemMessage"     : "Use code <generic> at checkout",
         "popupTextLink"     : "DETAILS",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
