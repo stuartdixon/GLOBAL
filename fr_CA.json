@@ -3,9 +3,7 @@
     "brands" : ["ON","BR","GAP"],
     "autoFire" : true,
     "textElements": {
-      "popupTextLink"       : "voir les détails",
       "clicked"             : "Cliqué",
-      "redeemMessage"       : "Saisir le code <generic> à la caisse ",
       "rewardsText"         : "Mes récompenses totales",
       "rewardsCTA"          : "Voir maintenant",
       "tapButtonText"       : "taper pour appliquer",
@@ -39,6 +37,8 @@
         }
       },
       "tapContent": {
+        "popupTextLink"     : "voir les détails",
+        "redeemMessage"     : "Saisir le code <generic> à la caisse ",
         "displayType"       : "generic",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
