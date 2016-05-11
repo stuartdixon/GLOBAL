@@ -17,7 +17,7 @@
     },
     "promos": [{
       "bannerContent": {
-        "imgOrHTML": "img",
+        "imgOrHTML": "html",
         "img": {
           "contentParameters": {
             "linkType" : false,
