@@ -38,7 +38,7 @@
       },
       "tapContent": {
         "displayType"       : "generic",
-        "redeemMessage"     : "Use code {{promo.tapContent.genericCode}} at checkout",
+        "redeemMessage"     : "Use code <generic> at checkout",
         "popupTextLink"     : "DETAILS",
         "legalOverrideUrl"  : "",
         "legalOverride"     : "",
