@@ -25,7 +25,8 @@
           },
           "images": {
             "path": "",
-            "dataUri": ""
+            "dataUri": "",
+            "url":""
           }
         },
         "HTML": {
